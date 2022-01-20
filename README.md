@@ -1,5 +1,9 @@
-# lucasoooooo.github.io
-Lucas Balangero Personal Website
+## Lucas Balangero Personal Website
+
+1. Github Pages website: https://lucasoooooo.github.io/
+2. Terpconnect website: https://terpconnect.umd.edu/~lbalange/
+
+### Add ons:
 
 Added Resume
   
